@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-05T15:37:43 IST" name="Suite" finished-at="2023-06-05T15:38:26 IST" duration-ms="43103">
+    <groups>
+    </groups>
+    <test started-at="2023-06-05T15:37:43 IST" name="Test" finished-at="2023-06-05T15:38:26 IST" duration-ms="43103">
+      <class name="TestDrive.VaccationPageTest">
+        <test-method is-config="true" signature="Startup()[pri:0, instance:TestDrive.VaccationPageTest@4ff8d125]" started-at="2023-06-05T15:37:55 IST" name="Startup" finished-at="2023-06-05T15:37:58 IST" duration-ms="2833" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Startup -->
+        <test-method signature="VaccationPageTest()[pri:0, instance:TestDrive.VaccationPageTest@4ff8d125]" started-at="2023-06-05T15:37:58 IST" name="VaccationPageTest" finished-at="2023-06-05T15:38:03 IST" duration-ms="4533" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VaccationPageTest -->
+        <test-method is-config="true" signature="Closeup()[pri:0, instance:TestDrive.VaccationPageTest@4ff8d125]" started-at="2023-06-05T15:38:03 IST" name="Closeup" finished-at="2023-06-05T15:38:11 IST" duration-ms="8417" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Closeup -->
+      </class> <!-- TestDrive.VaccationPageTest -->
+      <class name="TestDrive.HomePageTest">
+        <test-method is-config="true" signature="Startup()[pri:0, instance:TestDrive.HomePageTest@14bee915]" started-at="2023-06-05T15:37:43 IST" name="Startup" finished-at="2023-06-05T15:37:47 IST" duration-ms="4220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Startup -->
+        <test-method signature="HomePageTest()[pri:0, instance:TestDrive.HomePageTest@14bee915]" started-at="2023-06-05T15:37:47 IST" name="HomePageTest" finished-at="2023-06-05T15:37:47 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageTest -->
+        <test-method is-config="true" signature="Closeup()[pri:0, instance:TestDrive.HomePageTest@14bee915]" started-at="2023-06-05T15:37:47 IST" name="Closeup" finished-at="2023-06-05T15:37:55 IST" duration-ms="8432" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Closeup -->
+      </class> <!-- TestDrive.HomePageTest -->
+      <class name="TestDrive.TicketPageTest">
+        <test-method is-config="true" signature="Startup()[pri:0, instance:TestDrive.TicketPageTest@6d167f58]" started-at="2023-06-05T15:38:11 IST" name="Startup" finished-at="2023-06-05T15:38:14 IST" duration-ms="2881" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Startup -->
+        <test-method signature="TicketPageTest()[pri:0, instance:TestDrive.TicketPageTest@6d167f58]" started-at="2023-06-05T15:38:14 IST" name="TicketPageTest" finished-at="2023-06-05T15:38:17 IST" duration-ms="3295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TicketPageTest -->
+        <test-method is-config="true" signature="Closeup()[pri:0, instance:TestDrive.TicketPageTest@6d167f58]" started-at="2023-06-05T15:38:17 IST" name="Closeup" finished-at="2023-06-05T15:38:26 IST" duration-ms="8426" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Closeup -->
+      </class> <!-- TestDrive.TicketPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
